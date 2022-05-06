@@ -1,0 +1,11 @@
+
+*.krn
+deutschl/allerkbd/CKSUM
+deutschl/
+deutschl_part1/
+deutschl_part1_converted/
+rossiya/
+rossiya_converted/
+PythonEnv1/
+CSC1/
+_pycache_/
