@@ -10,3 +10,6 @@ PythonEnv1/
 CSC1/
 _pycache_/
 *.pyc
+.gitignore/
+.gitattributes/
+.idea/
